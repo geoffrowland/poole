@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://geoffrowland.github.io/poole/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://geoffrowland.github.io/poole/"
 
 # Assets
 #
